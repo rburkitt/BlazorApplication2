@@ -1,11 +1,5 @@
 ﻿@import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
 
-#stack button {
-    display: flex;
-    justify-content: center;
-    align-items: center;   
-}
-
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
