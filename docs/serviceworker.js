@@ -7,9 +7,7 @@ var filesToCache = [
     './css/site.css',
     './css/bootstrap/bootstrap.min.css',
     './css/open-iconic/font/css/open-iconic-bootstrap.min.css',
-    './open-iconic',
     './css/open-iconic/font/fonts/open-iconic.woff',
-    './css/loading.css',
     //Blazor framework
     './_framework/blazor.webassembly.js',
     './_framework/blazor.boot.json',
@@ -31,9 +29,6 @@ var filesToCache = [
     './_framework/_bin/Mono.WebAssembly.Interop.dll',
     './_framework/_bin/System.dll',
     './_framework/_bin/System.Core.dll',
-    //Pages
-    /*'./counter',
-    './concentration',*/
     //The compiled project .dll's
     './_framework/_bin/BlazorApplication2.dll'
 ];
