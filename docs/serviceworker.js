@@ -32,8 +32,8 @@ var filesToCache = [
     './_framework/_bin/System.dll',
     './_framework/_bin/System.Core.dll',
     //Pages
-    './counter',
-    './concentration',
+    /*'./counter',
+    './concentration',*/
     //The compiled project .dll's
     './_framework/_bin/BlazorApplication2.dll'
 ];
