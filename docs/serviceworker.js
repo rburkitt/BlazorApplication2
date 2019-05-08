@@ -30,7 +30,8 @@ var filesToCache = [
     './_framework/_bin/System.dll',
     './_framework/_bin/System.Core.dll',
     //The compiled project .dll's
-    './_framework/_bin/BlazorApplication2.dll'
+    './_framework/_bin/BlazorApplication2.dll',
+    './concentration'
 ];
 
 self.addEventListener('install', function (e) {
