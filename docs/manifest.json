@@ -1,6 +1,6 @@
 {
-  "name": "Blazor PWA Sample",
-  "short_name": "Blazor PWA",
+  "name": "Blazor Concentration",
+  "short_name": "Concentration",
   "icons": [
     {
       "src": "icons/icon-192x192.png",
